@@ -1,0 +1,1 @@
+Setting up a simple personal page.
