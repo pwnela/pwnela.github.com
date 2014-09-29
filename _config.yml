@@ -1,0 +1,13 @@
+# Site settings
+title: pwnela.com
+email: pwnela@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Happily doing what I can with what I've got.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pwnela.com" # the base hostname & protocol for your site
+twitter_username: pwnela
+other_twitter_username: railsgirlsatl
+github_username:  pwnela
+
+# Build settings
+markdown: kramdown

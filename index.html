@@ -1,39 +1,18 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>this is it</title>
+---
+layout: default
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>doing what I can with with what I've got</h1>
-        <p></p>
+<div class="home">
 
+  <h1 class="page-heading">👋👋 Hello!</h1>
 
-        <p class="view"><a href="http://www.twitter.com/pwnela" target="_blank">Where I tweet.</a></p>
-        <p class="view"><a href="http://www.bignerdranch.com" target="_blank">Where I work.</a></p>
-        <p class="view"><a href="http://www.railsgirls.com/atl" target="_blank">Where the <3 is.</a></p>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 
-        <a href="http://www.flickr.com/photos/pwnela/8453580103/" title="on the go by pwnela, on Flickr"><img src="http://farm9.staticflickr.com/8392/8453580103_d1138ec6b4_m.jpg" width="240" height="240" alt="on the go" border=2></a>
-
-      </header>
-      <section>
-        <p>That's all, folks.</p>
-      </section>
-      <footer>
-        <p><small><a href="http://www.twitter.com/pwnela" target="_blank">@pwnela</a> lives here.</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
-</html>
+</div>
