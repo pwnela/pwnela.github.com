@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rocky Mountan Ruby 2014"
-date:   2014-09-30 15:02:41
+date:   2014-09-25 15:02:41
 categories: conference speaking rmr2014
 ---
 
