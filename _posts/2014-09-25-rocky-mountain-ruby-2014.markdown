@@ -5,7 +5,7 @@ date:   2014-09-25 15:02:41
 categories: conference speaking rmr2014
 ---
 
-(Actual conference recap and review forthcoming. Promise.)
+<iframe width="560" height="315" src="//www.youtube.com/embed/h1UayuSXBcg" frameborder="0" allowfullscreen></iframe>
 
 <blockquote class="twitter-tweet" lang="en"><p>.<a href="https://twitter.com/pwnela">@pwnela</a> enlightening us about company culture <a href="https://twitter.com/rockymtnruby">@rockymtnruby</a> <a href="https://twitter.com/hashtag/rmr2014?src=hash">#rmr2014</a> <a href="http://t.co/gDlf5bKW6H">pic.twitter.com/gDlf5bKW6H</a></p>&mdash; Benjamin Smith (@benjamin_smith) <a href="https://twitter.com/benjamin_smith/status/515236756409810944">September 25, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
