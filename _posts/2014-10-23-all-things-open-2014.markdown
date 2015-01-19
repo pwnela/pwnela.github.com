@@ -30,7 +30,7 @@ I'll be giving this talk once more at [Ancient City Ruby])(http://www.ancientcit
 
 So, thanks!
 
-<iframe src="https://www.flickr.com/photos/allthingsopen/15138782533/in/set-72157649218790021/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/allthingsopen/15138782533/player/" width="500" height="333" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <blockquote class="twitter-tweet" lang="en"><p>Most excited about the last session of a conference. When does that happen? <a href="https://twitter.com/hashtag/ATO2014?src=hash">#ATO2014</a> &quot;Your Company Culture&quot; in 201</p>&mdash; Ginny Ghezzo (@GinnyGhezzo) <a href="https://twitter.com/GinnyGhezzo/status/525376461294018560">October 23, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
