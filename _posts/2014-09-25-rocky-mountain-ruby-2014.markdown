@@ -6,7 +6,7 @@ categories: conference speaking rmr2014
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/h1UayuSXBcg" frameborder="0" allowfullscreen></iframe>
-
+<script async class="speakerdeck-embed" data-id="6a5355902f9e01327e4d42c106afd3ef" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 [Rocky Mountain Ruby](http://rockymtnruby.com) 2014: my very first conference talk! Wow! It was nerve-wracking, invigorating, encouraging, and surprising. The organizers, attendees, and speakers at [Rocky Mountain Ruby](http://rockymtnruby.com) were simply the best for a first time speaker. Everyone was kind, supportive, and attentive.
 
