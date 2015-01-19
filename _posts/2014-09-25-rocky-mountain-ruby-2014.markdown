@@ -7,6 +7,7 @@ categories: conference speaking rmr2014
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/h1UayuSXBcg" frameborder="0" allowfullscreen></iframe>
 
+
 [Rocky Mountain Ruby](http://rockymtnruby.com) 2014: my very first conference talk! Wow! It was nerve-wracking, invigorating, encouraging, and surprising. The organizers, attendees, and speakers at [Rocky Mountain Ruby](http://rockymtnruby.com) were simply the best for a first time speaker. Everyone was kind, supportive, and attentive.
 
 My conference experience began with the speakers' dinner. As a not-super-outgoing (albeit friendly) person, I was definitely outside my comfort zone, but I soon shook my jitters and started conversations with both speakers and sponsored attendees. Several people expressed mild concern over the title of my talk - I'll admit, it's a little "punchy" - but most had at least noticed it in the schedule and were curious to hear what the content would be. This *might* have caused a few more butterflies to hatch in my stomach, but I tried to harness those nerves into confidence that my topic was important.
