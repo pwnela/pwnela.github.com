@@ -5,17 +5,17 @@ date:   2015-02-28 12:00:00
 categories: conference speaking alterconf
 ---
 
-First things first: Quick! Look at the [AlterConf schedule](http://www.alterconf.com/sessions) and see where the nearest event is that you can attend. Mark it on your calendar -- maybe even reach out to the organizers to volunteer or speak -- then look forward to it with glee. I've never said "EVERY event should do this" so often before. Live captioning, ASL interpretation, paid speakers, constant consideration and effort made for accessibility.... the list is unending. You'll never go to standard technology event again without noticing all that they usually lack.
+First things first: Quick! Look at the [AlterConf schedule](http://www.alterconf.com/sessions) and see where the nearest event is that you can attend. Mark it on your calendar -- maybe even reach out to the organizers to volunteer or speak -- then look forward to it with glee. I've never said "EVERY event should do this" so often before. Live captioning, ASL interpretation, paid speakers, constant consideration and effort made for accessibility.... the list is unending. You'll never go to a standard technology event again without noticing all that they (usually) lack.
 
-Alright, enough gushing (BUT SERIOUSLY IT WAS SO REFRESHING).
+Alright, enough gushing. (BUT SERIOUSLY IT WAS SO REFRESHING.)
 
 <script async class="speakerdeck-embed" data-id="061b28fe03ba4eebb0d9d2d94062e398" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 (VIDEO OF FULL TALK COMING SOON)
 
-My talk, ["Job Listing Minesweeper"](http://www.alterconf.com/speakers/pamela-vickers) was largely a spin-off from the research of the company culture talk I gave at [Rocky Mountain Ruby](http://pwnela.com/conference/speaking/rmr2014/2014/09/25/rocky-mountain-ruby-2014.html) and [All Things Open](http://pwnela.com/conference/speaking/ato2014/2014/10/23/all-things-open-2014.html) in 2014. While reading through hundreds of job listings, I saw so many repeated phrases and ideas.
+My talk, ["Job Listing Minesweeper"](http://www.alterconf.com/speakers/pamela-vickers) was largely a spin-off from the research of the company culture talk I gave at [Rocky Mountain Ruby](http://pwnela.com/conference/speaking/rmr2014/2014/09/25/rocky-mountain-ruby-2014.html) and [All Things Open](http://pwnela.com/conference/speaking/ato2014/2014/10/23/all-things-open-2014.html) in 2014. While reading through hundreds of job listings, I saw so many repeated phrases and ideas. I saw so many seemingly benign phrases that meant *so much more*.
 
-I hope that by pointing out just a few of them, both job listing writers and readers can learn a litle about some of these phrases are *actually* saying.
+I hope that by pointing out just a few of them, both job listing writers and readers can learn a litle about what these phrases are *actually* saying.
 
 <blockquote class="twitter-tweet" lang="en"><p>Job Listing Minesweeper with <a href="https://twitter.com/pwnela">@pwnela</a> <a href="https://twitter.com/hashtag/Alterconf?src=hash">#Alterconf</a> <a href="http://t.co/gp7M5LTcJ9">pic.twitter.com/gp7M5LTcJ9</a></p>&mdash; Samia A (@khatsar) <a href="https://twitter.com/khatsar/status/571776495464546304">February 28, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
