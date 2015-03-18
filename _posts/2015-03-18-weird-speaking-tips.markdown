@@ -28,7 +28,8 @@ So when you are the number one focus for an extended period of time, having a wa
 * If you are wearing a button front top, ensure all your buttons are buttoned and aren't puckering/gaping.
 * If you wear super "granola" deodorant like me (no antiperspirant) or are a nervous sweater, *consider* wearing a dark top.
 * If you are going to be speaking on a stage (it's probably worth finding out if this is the case), don't wear a short skirt or hi-lo hem UNLESS wearing REALLY opaque tights.
-* If you are wearing a skirt, make sure it isn't tucked into your waist band. (I've seen this happen to a speaker. 😑)
+* Without some kind of waistband, it can be difficult to fasten a wireless microphone. Be aware!
+* If you are wearing a skirt, make sure it isn't tucked into your waistband. (I've seen this happen to a speaker. 😑)
 * Go ahead and check for those slipping bra straps (if applicable) while we're at it.
 * Or if you are wearing zippered pants... yeah. You know what to do.
 
@@ -67,6 +68,6 @@ While doing practice deliveries, try starting at random points of your talk. The
 
 Hopefully one or more of these little tips will make your next conference talk a little bit easier.
 
-I should probably add a #8: don't let yourself be distracted while preparing for a -- or several -- conference talk by writing blog posts about giving conference talks.
+I should probably add a #8: don't let yourself be distracted while preparing for a -- or several -- conference talk(s) by writing blog posts about giving conference talks.
 
 Whoops.
