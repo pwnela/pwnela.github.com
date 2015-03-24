@@ -11,3 +11,8 @@ github_username:  pwnela
 
 # Build settings
 markdown: kramdown
+
+analytics :
+  provider : google
+  google :
+    tracking_id : 'UA-61111785-1'
