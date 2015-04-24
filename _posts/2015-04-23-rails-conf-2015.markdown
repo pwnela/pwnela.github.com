@@ -12,11 +12,11 @@ A full post on RailsConf will go here shortly. 👆
 
 
 ## Links!
-Jeff Atwood, [@codinghorror](http://www.twitter.com/codinghorror), [“Please Don't Learn to Code"](http://www.blog.codinghorror.com/please-dont-learn-to-code)
+Jeff Atwood, [@codinghorror](http://www.twitter.com/codinghorror), [“Please Don't Learn to Code"](http://blog.codinghorror.com/please-dont-learn-to-code/)
 
 Zed Shaw, [@zedshaw](http://www.twitter.com/zedshaw), [”Please Don't Become Anything, Especially Not a Programmer"](http://learncodethehardway.org/blog/MAY_15_2012.html)
 
-Stephanie Morillo, [@radiomorillo](http://www.twitter.com/radiomorillo), [blog](RubyWanKenoobie.tumblr.com), (Alter Conf talk)[http://www.alterconf.com/speakers/stephanie-morillo]
+Stephanie Morillo, [@radiomorillo](http://www.twitter.com/radiomorillo), [RubyWanKenoobie blog](http://RubyWanKenoobie.tumblr.com), ["Through the Looking Glass: When Upward Mobility and Access to Tech Are a Train Stop Away"](http://www.alterconf.com/speakers/stephanie-morillo)
 
 Sarah Mei, [@sarahmei](http://www.twitter.com/sarahmei), ["Programming is Not Math"](http://www.sarahmei.com/blog/2014/07/15/programming-is-not-math/)
 
