@@ -20,13 +20,13 @@ Stephanie Morillo, [@radiomorillo](http://www.twitter.com/radiomorillo), [RubyWa
 
 Sarah Mei, [@sarahmei](http://www.twitter.com/sarahmei), ["Programming is Not Math"](http://www.sarahmei.com/blog/2014/07/15/programming-is-not-math/)
 
-Sara Simon, [@sarambsimon](http://www.twitter.com/sarambsimon), [“Seven Months Later”](http://www.blog.turing.io/2015/01/29/seven-months-later/)
+Sara Simon, [@sarambsimon](http://www.twitter.com/sarambsimon), [“Seven Months Later”](http://blog.turing.io/2015/01/29/seven-months-later/)
 
 Kylie Stradley, [@kyfast](http://www.twitter.com/kyfast), [“Amelia Bedelia Learns to Code”](http://railsconf.com/program#prop_1010)
 
 Sasha Laundy, [@SashaLaundy](http://www.twitter.com/SashaLaundy), [“Your Brain's API: Giving and Getting Technical Help”](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
-Ashley Nelson-Hornstein, [@ashleynh](http://www.twitter.com/ashleynh), [“On Heroes”](http://www.blog.ashleynh.me/on-heroes)
+Ashley Nelson-Hornstein, [@ashleynh](http://www.twitter.com/ashleynh), [“On Heroes”](http://blog.ashleynh.me/on-heroes/)
 
 Dominic M. Liddel, [@dominicmliddell](http://www.twitter.com/dominicmliddell), [“Lessons Learned While Working to Build Black Tech Community”](https://modelviewculture.com/pieces/lessons-learned-while-working-to-build-black-tech-community)
 
