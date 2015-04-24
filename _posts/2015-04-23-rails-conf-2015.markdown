@@ -37,6 +37,8 @@ Stephanie Migdalia Pi Herrera, [@pi_inthecloud](http://www.twitter.com/pi_inthec
 
 Suggested reading (this list might grow):
 
+Erik Trautman, ["Why Learning to Code is So Damn Hard"](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
 Alicia Liu, [@aliciatweet](http://www.twitter.com/aliciatweet), [“You don’t have Impostor Syndrome”](https://medium.com/@aliciatweet/you-don-t-have-impostor-syndrome-126e4c4bdcc)
 
 Katherine Wu, [@kwugirl](http://www.twitter.com/kwugirl), [“How to Be a Better Junior Developer”](http://blog.newrelic.com/2014/04/23/better-junior-developer/)
