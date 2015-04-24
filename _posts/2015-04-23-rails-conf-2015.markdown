@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "RailsConf 2015: Crossing the Canyon of Cognizance"
+date:   2015-04-23 12:00:00
+categories: speaking railsconf
+---
+<script async class="speakerdeck-embed" data-id="f6ad1ee8c0ee48539711149997ee2c38" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+I'm still processing all the great feedback I got after giving my talk ["Crossing The Canyon Of Cognizance: A Shared Adventure"](http://railsconf.com/program#prop_925), but I wanted to get the slides posted online along with the links to the blog posts and articles I cite. (I added a few extra "suggested reading" links too for the ambitious.)
+
+A full post on RailsConf will go here shortly. 👆
+
+
+## Links!
+Jeff Atwood, @codinghorror, [“Please Don't Learn to Code"](http://www.blog.codinghorror.com/please-dont-learn-to-code)
+
+Zed Shaw, @zedshaw, [”Please Don't Become Anything, Especially Not a Programmer"](http://learncodethehardway.org/blog/MAY_15_2012.html)
+
+Stephanie Morillo, @radiomorillo, [blog](RubyWanKenoobie.tumblr.com), (Alter Conf talk)[http://www.alterconf.com/speakers/stephanie-morillo]
+
+Sarah Mei, @sarahmei, ["Programming is Not Math"](http://www.sarahmei.com/blog/2014/07/15/programming-is-not-math/)
+
+Sara Simon, @sarambsimon, [“Seven Months Later”](http://www.blog.turing.io/2015/01/29/seven-months-later/)
+
+Kylie Stradley, @kyfast, [“Amelia Bedelia Learns to Code”](http://railsconf.com/program#prop_1010)
+
+Sasha Laundy, @SashaLaundy, [“Your Brain's API: Giving and Getting Technical Help”](https://www.youtube.com/watch?v=hY14Er6JX2s)
+
+Monica F. Cox, Ph.D., @monicafcox, [“Professionally Prepared but Not Pioneer Prepared”](http://www.alterconf.com/speakers/monica-f-cox)
+
+Ashley Nelson-Hornstein, @ashleynh, [“On Heroes”](http://www.blog.ashleynh.me/on-heroes)
+
+Dominic M. Liddel, @dominicmliddell, [“Lessons Learned While Working to Build Black Tech Community”](https://modelviewculture.com/pieces/lessons-learned-while-working-to-build-black-tech-community)
+
+Rebecca Poulson, @rebeccapoulson, “The Junior Jump”, <link when posted on Ancient City Ruby site>
+
+Stephanie Migdalia Pi Herrera, @pi_inthecloud, [“Institutional Barriers for Women of Color at Code Schools”](http://www.modelviewculture.com/pieces/institutional-barriers-for-women-of-color-at-code-schools)
+
+
+Suggested reading (this list might grow):
+
+Alicia Liu, @aliciatweet, [“You don’t have Impostor Syndrome”](https://medium.com/@aliciatweet/you-don-t-have-impostor-syndrome-126e4c4bdcc)
+
+Katherine Wu, @kwugirl, [“How to Be a Better Junior Developer”](http://blog.newrelic.com/2014/04/23/better-junior-developer/)
+
+David Robinson, @drob, [“A Million Lines of Bad Code”](http://varianceexplained.org/programming/bad-code/)
+
