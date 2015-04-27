@@ -47,3 +47,34 @@ David Robinson, [@drob](http://www.twitter.com/drob), [“A Million Lines of Bad
 
 Monica F. Cox, Ph.D., [@monicafcox](http://www.twitter.com/monicafcox), [“Professionally Prepared but Not Pioneer Prepared”](http://www.alterconf.com/speakers/monica-f-cox)
 
+## Talk Chatter
+
+I'd requested that everyone moved to one side of the room or the other since my slides were more important than my face. Walter's tweet about it made me laugh!
+
+<blockquote class="twitter-tweet" lang="en"><p>Room is split to better view the slides... It&#39;s like west side story up in <a href="https://twitter.com/pwnela">@pwnela</a> s talk at <a href="https://twitter.com/hashtag/railsconf2015?src=hash">#railsconf2015</a> <a href="http://t.co/TRuDMYtz4T">pic.twitter.com/TRuDMYtz4T</a></p>&mdash; Walter Latimer (@walterlatimer) <a href="https://twitter.com/walterlatimer/status/590947400505761792">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Okay, then I actually gave the talk:
+
+<blockquote class="twitter-tweet" lang="en"><p>Really excited to go with Tenderfoot and <a href="https://twitter.com/pwnela">@pwnela</a> on an adventure! <a href="https://twitter.com/hashtag/railsconf?src=hash">#railsconf</a></p>&mdash; Jordan Burke (@PendragonDev) <a href="https://twitter.com/PendragonDev/status/590949223299944449">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>Loving the mutually reinforcing themes of talks by <a href="https://twitter.com/pwnela">@pwnela</a> <a href="https://twitter.com/erniemiller">@erniemiller</a> <a href="https://twitter.com/KyFaSt">@KyFaSt</a> (and others) at <a href="https://twitter.com/hashtag/railsconf?src=hash">#railsconf</a> <a href="https://twitter.com/hashtag/humanedevelopment?src=hash">#humanedevelopment</a></p>&mdash; Hsing-Hui Hsu (@SoManyHs) <a href="https://twitter.com/SoManyHs/status/590953183477944320">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>.<a href="https://twitter.com/pwnela">@pwnela</a> has captured the self-taught newbie&#39;s wins and frustrations in a great talk! <a href="https://twitter.com/hashtag/railsconf2015?src=hash">#railsconf2015</a></p>&mdash; jaimes (@EduPunkN00b) <a href="https://twitter.com/EduPunkN00b/status/590954758988570626">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>Had a lil code cry during <a href="https://twitter.com/pwnela">@pwnela</a>&#39;s talk at <a href="https://twitter.com/hashtag/railsconf?src=hash">#railsconf</a>, too many good things to quote. To start, meet Tenderfoot <a href="http://t.co/K1LuSZEAra">pic.twitter.com/K1LuSZEAra</a></p>&mdash; Jessica Goulding (@jessicag) <a href="https://twitter.com/jessicag/status/590955890745847809">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>Love <a href="https://twitter.com/pwnela">@pwnela</a> dropping &quot;Crossing the Canyon of Cognizance&quot; expansion pack. Hint: it&#39;s being an underrepresented person in tech <a href="https://twitter.com/hashtag/railsconf?src=hash">#railsconf</a></p>&mdash; kylie stradley (@KyFaSt) <a href="https://twitter.com/KyFaSt/status/590957243258052609">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>Crossing the Canyon of Cognizance: A Shared Adventure, by <a href="https://twitter.com/pwnela">@pwnela</a>. One of my fav talks <a href="https://twitter.com/hashtag/railsconf2015?src=hash">#railsconf2015</a> <a href="http://t.co/9EhEn5iN28">pic.twitter.com/9EhEn5iN28</a></p>&mdash; Ana Castro (@anymoto) <a href="https://twitter.com/anymoto/status/590958014326251522">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>I wanted to stand up and shout at the end of <a href="https://twitter.com/pwnela">@pwnela</a>&#39;s talk: &quot;I am Tenderfoot, hear me roar or whatever noise unicorns make)!&quot;</p>&mdash; Kristin Clement (@kmblackwell) <a href="https://twitter.com/kmblackwell/status/590958609628008449">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/pwnela">@pwnela</a> just explained my coding experience in a 40 mins presentation. Where were you 9 months ago? <a href="https://twitter.com/hashtag/railsconf?src=hash">#railsconf</a></p>&mdash; J. Simmons (@jsnsimmons) <a href="https://twitter.com/jsnsimmons/status/590958725495685120">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p>Great talk <a href="https://twitter.com/pwnela">@pwnela</a>. Great perspectives, especially the emotional impacts we have on learners. Expansion pack++ <a href="https://twitter.com/hashtag/GirlsWhoCode?src=hash">#GirlsWhoCode</a> <a href="https://twitter.com/hashtag/railsconf?src=hash">#railsconf</a></p>&mdash; Paul Baker (@paulbaker3) <a href="https://twitter.com/paulbaker3/status/590958729744490496">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/pwnela">@pwnela</a>&#39;s talk is my fave so far. And I&#39;m not just saying that b/c she&#39;s my guide. Also, you can now call me Tenderfoot Thompson.</p>&mdash; Rashida Thompson (@rashidathompson) <a href="https://twitter.com/rashidathompson/status/590959723383562240">April 22, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+I was so touched that people had an emotional reaction to Tenderfoot's journey. I wouldn't have had a Tenderfoot without my wonderful coworker and friend [Tam Vo](https://twitter.com/tamiam). We're working on releasing a fun Tenderfoot sticker set, so keep some 👀 out for that!
