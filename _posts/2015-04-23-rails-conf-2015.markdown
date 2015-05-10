@@ -4,6 +4,9 @@ title:  "RailsConf 2015: Crossing the Canyon of Cognizance"
 date:   2015-04-23 12:00:00
 categories: speaking railsconf
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_HoaAIYcihY" frameborder="0" allowfullscreen></iframe>
+
 <script async class="speakerdeck-embed" data-id="f6ad1ee8c0ee48539711149997ee2c38" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 I'm still processing all the great feedback I got after giving my talk ["Crossing The Canyon Of Cognizance: A Shared Adventure"](http://railsconf.com/program#prop_925), but I wanted to get the slides posted online along with the links to the blog posts and articles I cite. (I added a few extra "suggested reading" links too for the ambitious.)
