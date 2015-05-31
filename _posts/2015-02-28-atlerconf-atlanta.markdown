@@ -15,7 +15,7 @@ Alright, enough gushing. (BUT SERIOUSLY IT WAS SO REFRESHING.)
 
 My talk, ["Job Listing Minesweeper"](http://www.alterconf.com/speakers/pamela-vickers) was largely a spin-off from the research of the company culture talk I gave at [Rocky Mountain Ruby](http://pwnela.com/conference/speaking/rmr2014/2014/09/25/rocky-mountain-ruby-2014.html) and [All Things Open](http://pwnela.com/conference/speaking/ato2014/2014/10/23/all-things-open-2014.html) in 2014. While reading through hundreds of job listings, I saw so many repeated phrases and ideas. I saw so many seemingly benign phrases that meant *so much more*.
 
-I hope that by pointing out just a few of them, both job listing writers and readers can learn a litle about what these phrases are *actually* saying.
+I hope that by pointing out just a few of them, both job listing writers and readers can learn a little about what these phrases are *actually* saying.
 
 <blockquote class="twitter-tweet" lang="en"><p>Job Listing Minesweeper with <a href="https://twitter.com/pwnela">@pwnela</a> <a href="https://twitter.com/hashtag/Alterconf?src=hash">#Alterconf</a> <a href="http://t.co/gp7M5LTcJ9">pic.twitter.com/gp7M5LTcJ9</a></p>&mdash; Samia A (@khatsar) <a href="https://twitter.com/khatsar/status/571776495464546304">February 28, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
