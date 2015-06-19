@@ -9,9 +9,9 @@ First things first: Quick! Look at the [AlterConf schedule](http://www.alterconf
 
 Alright, enough gushing. (BUT SERIOUSLY IT WAS SO REFRESHING.)
 
-<script async class="speakerdeck-embed" data-id="061b28fe03ba4eebb0d9d2d94062e398" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CddCcofWAng" frameborder="0" allowfullscreen></iframe>
 
-(VIDEO OF FULL TALK COMING SOON)
+<script async class="speakerdeck-embed" data-id="061b28fe03ba4eebb0d9d2d94062e398" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 My talk, ["Job Listing Minesweeper"](http://www.alterconf.com/speakers/pamela-vickers) was largely a spin-off from the research of the company culture talk I gave at [Rocky Mountain Ruby](http://pwnela.com/conference/speaking/rmr2014/2014/09/25/rocky-mountain-ruby-2014.html) and [All Things Open](http://pwnela.com/conference/speaking/ato2014/2014/10/23/all-things-open-2014.html) in 2014. While reading through hundreds of job listings, I saw so many repeated phrases and ideas. I saw so many seemingly benign phrases that meant *so much more*.
 
