@@ -56,5 +56,13 @@ P.S. As I said, this list is *extensive*. Use it as a study guide, but not a che
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NWo-RIHiEJ4" frameborder="0" allowfullscreen></iframe>
 
 *********
+## Crossing The Canyon Of Cognizance: A Shared Adventure
+
+While I'm at it, I guess I'll include my own talk! ¯\_(ツ)_/¯
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5yma3YFvOjo?list=PLJ-cEwTSAyZ5jMhU4j3SqDGtV9h8MalFU" frameborder="0" allowfullscreen></iframe>
+
+*********
 
 These are all great talks to watch, even if you are already a working, fully developed developer (ha ha like that will ever happen 😁). I made notes for myself watching these, so hopefully you can glean some wisdom from other's experiences as well. Again, [please let me know what talks should be added to this list!](http://twitter.com/home?status=hey @pwnela, you missed one!)
