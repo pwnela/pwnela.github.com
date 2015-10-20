@@ -43,7 +43,7 @@ I've had the privilege of seeing/finding several great conference talks that wou
 
 [Rebecca Poulson](http://www.rebeccapoulson.com), recent developing developer herself, discusses here onboarding new engineers into their first jobs. Another *extremely* actionable talk!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hY14Er6JX2s" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RK6l_l7TdB8" frameborder="0" allowfullscreen></iframe>
 
 *********
 
