@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Recommended Conference Talks for Developing Developer"
+title:  "Recommended Conference Talks for Developing Developers"
 date:   2015-10-20 12:00:00
 categories: mentoring
 ---
