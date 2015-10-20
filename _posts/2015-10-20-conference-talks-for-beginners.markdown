@@ -53,7 +53,7 @@ P.S. As I said, this list is *extensive*. Use it as a study guide, but not a che
 
 [Rich Hickey](https://twitter.com/richhickey), creator of the [Clojure programming language](http://clojure.org), talks about the foundation and purpose of development: solving problems. (This talk pairs nicely with [Blithe's](http://blitherocher.com) talk above!)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NWo-RIHiEJ4" frameborder="0" allowfullscreen></iframe>
+[This video can't be embedded, so go on over to youtube!](https://youtu.be/f84n5oFoZBc)
 
 *********
 ## Crossing The Canyon Of Cognizance: A Shared Adventure
