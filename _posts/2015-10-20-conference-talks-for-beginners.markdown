@@ -78,4 +78,24 @@ While I'm at it, I guess I'll include my own talk! ¯\\_(ツ)_/¯
 *********
 
 
+## 5 Things I Wish Someone Had Told Me About Programming Before I Started
+
+[Kerri Miller](https://twitter.com/kerrizor), one of my favorite conference speakers--because who else starts a Ruby conference talk performing a Shakespearean monologue? No one. The answer is "no one."--lists five helpful, important ideas for developing developers AND already established developers. (My favorite point is #1 "It's Supposed to be Hard." What's your favorite?)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bZOnbBJW3a8" frameborder="0" allowfullscreen></iframe>
+
+*********
+
+
+## Humane Development
+
+[Ernie Miller](http://ernie.io) has given some of the most valuable "soft talks" or "people talks" that I've ever seen. My own [talk about company culture](http://pwnela.com/conference/speaking/rmr2014/2014/09/25/rocky-mountain-ruby-2014.html) was largely inspired by his talk ["The Most Important Optimization: Happiness"](https://ernie.io/2013/05/02/talk-the-most-important-optimization-happiness/), so if you have the time, I highly recommend watching that one as well!
+
+Ernie pulls many of his people focused ideas together and delivers a compelling call to action in ["Humane Development"](https://ernie.io/2015/04/30/talk-humane-development/). These are important ideas for you to carry forward in your learning and in your seeking good companies for your career.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ZLYxLjwNWo" frameborder="0" allowfullscreen></iframe>
+
+*********
+
+
 These are all great talks to watch, even if you are already a working, fully developed developer (ha ha like that will ever happen 😁). I made notes for myself watching these, so hopefully you can glean some wisdom from other's experiences as well. Again, [please let me know what talks should be added to this list!](http://twitter.com/home?status=hey @pwnela, you missed one!)
