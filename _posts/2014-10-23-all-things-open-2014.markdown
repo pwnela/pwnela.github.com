@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All Things Open: Your Company is 'Awesome' (But is 'Company Culture' a lie?)"
+title:  "All Things Open: Your Company Culture is 'Awesome' (But is 'Company Culture' a lie?)"
 date:   2014-10-23 12:00:00
 categories: conference speaking ato2014
 ---
