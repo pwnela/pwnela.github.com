@@ -47,6 +47,7 @@ These are the feelings:
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr">These feelings come out of an unconditional love and desire to help developing developers find their footing and their path. 💝💝</p>&mdash; pamela marie (@pwnela) <a href="https://twitter.com/pwnela/status/666280248053514240">November 16, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I had more conversations and ended up with even MORE feelings:
+
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr">this is part of the problem; underrepresented people paying for access that is free for others&#10;&#10;<a href="https://t.co/XgXkNUxN2U">https://t.co/XgXkNUxN2U</a></p>&mdash; pamela marie (@pwnela) <a href="https://twitter.com/pwnela/status/666284758356357120">November 16, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr">Final big <a href="https://twitter.com/hashtag/ReplaceCodeSchoolsWithCommunity?src=hash">#ReplaceCodeSchoolsWithCommunity</a> tweet and then I promise I&#39;ll get back to <a href="https://twitter.com/hashtag/ahabconf?src=hash">#ahabconf</a> (sorry new followers): &#10;&#10;feeling #1000) ...</p>&mdash; pamela marie (@pwnela) <a href="https://twitter.com/pwnela/status/666657484258549760">November 17, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -54,6 +55,7 @@ I had more conversations and ended up with even MORE feelings:
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr">I think *most* code school teachers and staff care deeply about their students&#39; learning and are not the problem themselves.</p>&mdash; pamela marie (@pwnela) <a href="https://twitter.com/pwnela/status/666657725267447808">November 17, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And I had new ways to verbalize what bothered me so much about the packaged up code school experience:
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pwnela">@pwnela</a> That naivete being the belief that you can sell an education like you can sell potatoes.</p>&mdash; billjings (@billjings) <a href="https://twitter.com/billjings/status/666282526852411392">November 16, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -71,6 +73,7 @@ I propose:
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr">new initiative <a href="https://twitter.com/hashtag/ReplaceCodeSchoolsWithCommunity2016?src=hash">#ReplaceCodeSchoolsWithCommunity2016</a></p>&mdash; pamela marie (@pwnela) <a href="https://twitter.com/pwnela/status/666283526275407872">November 16, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 And I ask code schoolers:
+
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Code school grads: if you have issues with what you learned and how your code school experience went but don&#39;t want to speak out publicly...</p>&mdash; pamela marie (@pwnela) <a href="https://twitter.com/pwnela/status/666640641057800192">November 17, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-conversation="none" lang="en"><p lang="en" dir="ltr">...because you don&#39;t want to &quot;out&quot; yourself on the job hunt, I&#39;m putting together some thoughts on this. DM me if you want your story told.</p>&mdash; pamela marie (@pwnela) <a href="https://twitter.com/pwnela/status/666640989763837952">November 17, 2015</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
