@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rocky Mountan Ruby: Your Company is 'Awesome' (But is 'Company Culture' a lie?)"
+title:  "Rocky Mountain Ruby: Your Company Culture is 'Awesome' (But is 'Company Culture' a lie?)"
 date:   2014-09-25 15:02:41
 categories: conference speaking rmr2014
 ---
